@@ -6,9 +6,9 @@ The main purpose of this work is to develop a component of self-driving car that
 Now, state-of-the-art object detection algorithms show great performance, so I believe that pixel-level segmentation for every objects is not always necessary for practical applications. So I developed an FCN-based approach that focuses only on road, that cannot be dealt with the conventional object detection algorithms. The annotation efforts can be significantly reduced if we can limit the region of interest only to road.
 
 ## FCN Architecture
-I employed the following architecture for FCN.
+I employed the following U-Net architecture.
 
-<img src="imgs/architecture.png" width="256px" height="256px"/>
+<img src="imgs/architecture.png" width="1024px" height="256px"/>
 
 ## Setup
 ### Prerequisites
