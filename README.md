@@ -8,6 +8,8 @@ Now, state-of-the-art object detection algorithms show great performance, so I b
 ## FCN Architecture
 I employed the following architecture for FCN.
 
+<img src="imgs/architecture.png" width="256px" height="256px"/>
+
 ## Setup
 ### Prerequisites
 - Linux
